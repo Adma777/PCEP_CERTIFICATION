@@ -1,0 +1,16 @@
+# Used to display information on the output
+
+# Each print() uses display information at a new line by default 
+print("Hello world")
+print()
+print("New line by default")
+
+print("Hello world")
+print()
+print("New line by default")
+
+# Use \n to add a jump to a new line
+print("Hello world\n")
+print("New line by default")
+
+print("New line \n in a string")
