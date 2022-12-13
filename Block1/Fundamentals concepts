@@ -1,0 +1,27 @@
+# Type of language
+  - Interpreted : Source code -> Interpreter -> Ouput // Source Code -> Compiler -> Machine Code -> Ouput
+  - High-level : Easily understable by user
+  - Object Oriented
+  - Created by Guido Van Rossum 
+  - Named from "Monty Python's Flying Circus"
+  
+# Advantages
+  - Easy to learn, teach, understand
+  - Open source and free to use
+  - Easy to install
+  - Portable
+  - Cross Platform
+  
+# Disadvantages
+  - Weak speed performance
+  - Difficult to debug sometimes
+  
+# Applications
+  - Machine learning
+  - Data visualization
+  - Web developpement : Django, Flask
+  - App using Python : Instagram, Spotify
+  - Use for automatization
+  
+# Version of Python
+  - Python2 / Python3 : not retrocompatible
