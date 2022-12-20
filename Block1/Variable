@@ -6,7 +6,7 @@
 # Variable Declaration
 #   Number not allowed as first character
 #   First character can be a letter or an underscore
-
+#   Differences between a literal like 5 or 'a', the value is the literal itself, and a which has no value
 a = 5 
 _a = 5
 Variable = 5
