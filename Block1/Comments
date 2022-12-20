@@ -1,0 +1,15 @@
+# Single line comment
+# Display only if you reading the code
+
+print("You can add commentary after code") # Not displayed
+#print('Not displayed')
+
+# Mutiple line comments
+# Use for doc string
+
+"""
+  Multi line comments but pseudo comment, and are in fact 
+  a multline string 
+  use for doc string
+Multi line comments
+"""
