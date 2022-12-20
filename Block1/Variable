@@ -1,0 +1,73 @@
+'''
+  Use to store data value
+  Python is dynamic typing
+'''
+
+# Variable Declaration
+#   Number not allowed as first character
+#   First character can be a letter or an underscore
+
+a = 5 
+_a = 5
+Variable = 5
+Variable5 = 5
+
+
+# Mulitple declaration
+x, y, z = 1, "Hello", True
+print(x)
+print(y)
+print(z)
+
+x = y = z = 1
+print(x)
+print(y)
+print(z)
+print(x, y, z)
+
+# Python is case sensitive
+a = 5
+A = 6
+print(A == a) # False
+
+#  Find the data type of variable
+a = 5
+type(a) # <class 'int'> 
+a = 5.5
+type(a)  # <class 'float'> 
+a = 5,5
+type(a)  # <class 'tuple'> 
+a = "aaa"
+type(a) # <class 'str'> 
+a = 'a'
+type(a) # <class 'str'> 
+a = True
+type(a) # # <class 'bool'> 
+a = ['a','b']
+type(a) # # <class 'list'> 
+a = ('a','b')
+type(a) # # <class 'tuple'> 
+a = {'a':'b'}
+type(a) # # <class 'dict'> 
+
+data_type = type(a)
+print(data_type)
+
+
+# Dynamic typing
+a = 5
+print(a)
+a = "Type changed"
+print(a)
+a = True
+print(a)
+
+# Deleting variable
+a = "Hello world"
+print(a)
+del a
+print(a) # Should failed
+
+# Variable name restrictions
+- Reuse the name of builtin functions like print(), int(), input()....
+- Reuse keywords like : if else or not in....
