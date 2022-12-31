@@ -5,3 +5,8 @@
 print('z')
 print("z")
 print("Hello world")
+print(type("Hello world")) # <class 'string'>
+print(type('Hello world')) # <class 'string'>
+print(type('2')) # <class 'string'>
+print(type('')) # <class 'string'>
+print(type("''")) # <class 'string'>
