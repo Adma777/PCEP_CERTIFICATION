@@ -1,0 +1,10 @@
+# Boolean
+'''	Possible values :
+		True // 1
+		False // 0
+		True != true != TRUE
+		False != false != fAlSe
+'''
+
+print(True > False) # True 1 < 0
+print(type(True > False)) # <class 'bool'>
