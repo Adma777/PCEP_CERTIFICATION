@@ -11,6 +11,9 @@ value = 5*3
 print(value)
 
 # Division : /
+'''
+  Return a float
+'''
 value = 5/2
 print(value) # 2.5
 
