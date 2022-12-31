@@ -25,3 +25,11 @@
   
 # Version of Python
   - Python2 / Python3 : not retrocompatible
+
+# Definitions
+ - Machine Language : Binary or hexadecimal instructions
+ - Source Code : High-level programming language
+ - Lexis : Set of word (if, print, ....) reserved by a language
+ - Syntax / Semantics : Rules for writting a valid source code
+
+ 
