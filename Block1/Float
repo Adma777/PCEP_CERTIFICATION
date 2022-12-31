@@ -1,0 +1,15 @@
+# Float
+'''
+  Number with a fractional part.
+  Represent with a '.'
+'''
+print(2.45)
+print(type(2.)) # <class 'float'>
+print(type(2.45)) # <class 'float'>
+
+# Scientific notation 
+
+Used for big number
+3.5 * 10^16 -> 3.5e16
+print(5e10)
+print(type(5e10)) # <class 'float'>
