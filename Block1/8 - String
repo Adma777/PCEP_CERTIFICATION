@@ -10,3 +10,11 @@ print(type('Hello world')) # <class 'string'>
 print(type('2')) # <class 'string'>
 print(type('')) # <class 'string'>
 print(type("''")) # <class 'string'>
+
+
+# Escaping character
+print("I'm a string")
+print('I\'m a string')
+print('\'I\'m a \"string\"\'')
+print('\\')
+print('\\n is for a new line')
