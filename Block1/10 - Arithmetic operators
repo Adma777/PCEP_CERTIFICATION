@@ -1,12 +1,21 @@
 # Addtion : +
+'''
+  If one of the number is a float the return integer will be typed as float
+'''
 value = 5+5
 print(value)
 
 # Substraction : -
+'''
+  If one of the number is a float the return integer will be typed as float
+'''
 value = 5-3
 print(value)
 
 # Mulitplication : *
+'''
+  If one of the number is a float the return integer will be typed as float
+'''
 value = 5*3
 print(value)
 
@@ -18,16 +27,23 @@ value = 5/2
 print(value) # 2.5
 
 # Exponent : **
+'''
+  If one of the number is a float the return integer will be typed as float
+'''
 value = 2**3
 print(value) # 8
 
 # Modulus : %
+'''
+  If one of the number is a float the return integer will be typed as float
+'''
 value = 8 % 6
 print(value) # 2
 
 # Floor division : //
 '''
   Return the smallest and closest integer near the result of the division
+  If one of the number is a float the return integer will be typed as float
   Euclidean division
 '''
 value = 5 // 2
