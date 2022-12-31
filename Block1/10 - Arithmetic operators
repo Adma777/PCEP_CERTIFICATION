@@ -1,0 +1,31 @@
+# Addtion : +
+value = 5+5
+print(value)
+
+# Substraction : -
+value = 5-3
+print(value)
+
+# Mulitplication : *
+value = 5*3
+print(value)
+
+# Division : /
+value = 5/2
+print(value) # 2.5
+
+# Exponent : **
+value = 2**3
+print(value) # 8
+
+# Modulus : %
+value = 8 % 6
+print(value) # 2
+
+# Floor division : //
+'''
+  Return the smallest and closest integer near the result of the division
+  Euclidean division
+'''
+value = 5 // 2
+print(value) # 2
