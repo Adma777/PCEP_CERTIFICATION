@@ -1,0 +1,25 @@
+# Input
+'''
+  Function use to get information from the standard input()
+  Return is always a string
+'''
+
+# With no prompt pessage
+value = input()
+print("Input return is : ",value)
+
+# With a prompt message
+value = input("Enter a value : ")
+print(value)
+print("Your value is ,"value)
+
+# String type return
+value = input("Enter a value : ")
+print("Your value is ,"value)
+
+print(type(value)) #<class 'str'>
+
+# Convert the data type of the return
+value = int(input("Enter a value : "))
+print("Your value is ,"value)
+print(type(value)) #<class 'int'>
