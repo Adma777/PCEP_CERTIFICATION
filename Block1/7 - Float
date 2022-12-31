@@ -9,7 +9,9 @@ print(type(2.45)) # <class 'float'>
 
 # Scientific notation 
 
-Used for big number
+Used for big/small number
 3.5 * 10^16 -> 3.5e16
 print(5e10)
 print(type(5e10)) # <class 'float'>
+
+print(0.000000000000006) # 6e-15
