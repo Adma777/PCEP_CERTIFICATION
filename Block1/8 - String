@@ -1,0 +1,7 @@
+# String
+'''
+  Litteral wrapped inside single or double quotes
+'''
+print('z')
+print("z")
+print("Hello world")
