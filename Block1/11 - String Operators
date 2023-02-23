@@ -1,0 +1,17 @@
+# Operator '*'
+
+""" 
+  Replicate a string n times
+"""
+print("Python certification" * 3)
+print(3 * "Python certification")
+
+# Operator '+'
+""" 
+  Concate tow or more string
+  The operator couble replace by a coma in the print function.
+  But a space will be automatically added between the two string
+"""
+a = " "
+print('Python'+a+'certfication')
+print('Python',a,'certfication')
