@@ -7,6 +7,7 @@ Example :
 2 - Unary + or - To indicate the sign of the number
 3 - * / // %
 4 - Binary + or - 
-
+5 - Relational < <= > >=
+6 - Relationnal == !=
 On case of same priority operator, most of them are left binded.
 Exponent is right binded
