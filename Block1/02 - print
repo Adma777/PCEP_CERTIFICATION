@@ -25,3 +25,16 @@ print(a, b, c, d)
   If a space is present between two string in print(), they willbe automatically concatened with a space
 """
 print('John' 'Miller')
+
+# Overriding defaut behavior
+end and sep are positionnal argument, need to be after the printed string
+1) end
+print("a", "b", "c", end="*") -> replace the \n by a * 
+end =None is same as end ="\n"
+=>
+print("a", "b", "c", end="*")
+print('test') 
+ ->a b c*test
+
+2) sep
+print("a", "b", "c", sep="*") ->a*b*c
