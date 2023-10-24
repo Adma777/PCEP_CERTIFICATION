@@ -22,6 +22,6 @@ a, b, c, d = 4, 2.5, "Test", True
 print(a, b, c, d)
 
 """
-  If a space is present between two string in print(), they willbe automatically concatened
+  If a space is present between two string in print(), they willbe automatically concatened with a space
 """
 print('John' 'Miller')
