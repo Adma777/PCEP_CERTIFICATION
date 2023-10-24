@@ -1,0 +1,11 @@
+a = 20
+b = 20
+c = 22
+d = [30, 40]
+e = [30, 40]
+f = c
+print(a is b) # True
+print(c is b) # False
+print(d is e) # False
+print(d is not e) # True
+print(f is c) # True
