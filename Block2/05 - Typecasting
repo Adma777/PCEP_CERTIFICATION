@@ -1,0 +1,9 @@
+1 - int()
+
+x = "1.0"
+int(x) -> Fail because it's a float
+
+2 - float()
+anything = input("Enter a number : ")
+float(anything)
+3 - str()
