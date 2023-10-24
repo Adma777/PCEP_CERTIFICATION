@@ -18,3 +18,12 @@ print('I\'m a string')
 print('\'I\'m a \"string\"\'')
 print('\\')
 print('\\n is for a new line')
+
+# Indexing
+s = "Hello"
+s[0]
+s[-1]
+
+# Assigning
+s = "Hello"
+s[0] =) "T" -> Fail, str object doesn't support this type of assignment
