@@ -1,5 +1,5 @@
 # Compare two value
-==
+==  -> 200 == 200.0 -> True
 !=
 <
 >
