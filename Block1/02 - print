@@ -35,6 +35,10 @@ end =None is same as end ="\n"
 print("a", "b", "c", end="*")
 print('test') 
  ->a b c*test
+If one string are given, the end will be put afet a \n
+print("a b", end='*')
+=>a b
+*
 
 2) sep
 print("a", "b", "c", sep="*") ->a*b*c
