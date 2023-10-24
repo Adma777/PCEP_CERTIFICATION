@@ -28,11 +28,13 @@ x ^ y  # 0000 0010
 print(x ^ y) # 2
 
 # RIGHT SHIFT : >>
+x >> N same as x // (N//2)
 x = 10 # 0000 1010
 y = x >> 1 # x // 2 # 0000 0101
 print(y) # 5
 
 # LEFT SHIFT  : <<
+x >> N same as x * (N*2)
 x = 10 # 0000 1010
 y = x << 2 # x * 2* 2 # 0010 1000
 print(y) # 40
