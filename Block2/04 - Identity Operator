@@ -9,3 +9,7 @@ print(c is b) # False
 print(d is e) # False
 print(d is not e) # True
 print(f is c) # True
+
+a = "test"
+b = "test
+a is b -> True even if the string are a kind of list
