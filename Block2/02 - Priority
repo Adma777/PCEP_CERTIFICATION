@@ -2,12 +2,22 @@
 
 Example :
  2 ** 2 ** 1 + 9 * 7// 2
+1 - Parenthesis ()
+2 - Exponent **
+3 - Unary + or - To indicate the sign of the number
+4 - * / // %
+5 - Binary + or - 
+6 - Bitwise << >>
+7 - AND &
+8 - XOR ^
+9 - OR |
+10 - Membership and Identity in, not in, is, is not
+11 - Relational < <= > >=
+12 - Relationnal == !=
+13 = += -= *= /= %= ^= |= >>= <<=
+14 not
+15 and
+16 or
 
-1 - Exponent **
-2 - Unary + or - To indicate the sign of the number
-3 - * / // %
-4 - Binary + or - 
-5 - Relational < <= > >=
-6 - Relationnal == !=
 On case of same priority operator, most of them are left binded.
 Exponent is right binded
