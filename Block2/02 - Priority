@@ -1,0 +1,12 @@
+# Arithmetical priority
+
+Example :
+ 2 ** 2 ** 1 + 9 * 7// 2
+
+1 - Exponent **
+2 - Unary + or - To indicate the sign of the number
+3 - * / // %
+4 - Binary + or - 
+
+On case of same priority operator, most of them are left binded.
+Exponent is right binded
