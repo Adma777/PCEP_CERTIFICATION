@@ -1,6 +1,8 @@
 # while
+# while : one line
+a = 5
+while a >=0:print(a);a-=1
 # while else
-
 num = 1
 while num < 4:
   num +=1
