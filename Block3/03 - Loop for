@@ -7,3 +7,5 @@ for i in tmp:
 
 for i in [0,1,2]:
   print(i)
+
+for i in ('a', 0,1):print(i)
