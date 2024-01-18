@@ -1,0 +1,9 @@
+# For
+iterates trough list or tuple
+
+tmp = [0,1,2]
+for i in tmp:
+  print(i)
+
+for i in [0,1,2]:
+  print(i)
