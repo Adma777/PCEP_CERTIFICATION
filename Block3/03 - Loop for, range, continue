@@ -39,4 +39,4 @@ for i in range(0, 50,10):
   if i > 50:
     break
 else:
-  print("break trigger")
+  print("Not trigger because of the break")
