@@ -1,1 +1,45 @@
+# Details
 
+Can be updated
+Mutable
+Can have several data type
+Are ordered
+print(type([]) # <class 'list'>
+
+# Creation
+var_list = []
+var_list = list()
+
+# Indexing
+ls[0]
+ls[1]
+
+# Concat
+use '+'
+
+# Repeat 
+Use '*'
+print(['a'] * 3) # ['a', 'a', 'a']
+
+# Negative Index
+lst = [0, 1, 2]
+print(lst[-1]) # 2
+print(lst[-2]) # 1
+
+# Length list
+len()
+
+# List slicing
+lst = [0, 1, 2, 3, 4, 5]
+lst1 = lst[0:1] # or [:1]
+lst1 = lst[0:3:2]
+lst1 = lst[::-1] # reverse list
+
+ls = lst[0:-2] # remove the last value
+
+# Copy reference/ deep copy
+ls1 = [0, 1, 2]
+ls2 = ls1 # reference // deep copye -> ls2 = ls1[:]
+ls1[0] = 'a'
+print(ls1) # ['a', 1, 2]
+print(ls2) # ['a', 1, 2]
